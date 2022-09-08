@@ -39,8 +39,8 @@
   // a = (Math.random() * 100)
 
   }
-  // I still don t undestand how to train it but teorically I think the basic idea is good. In order to do linear regression
-  // not with a line but with parable (or something else) using  x,y inputs as well as adding x^2 inputs by multypling x*x ;
+  // I still don t undestand how to train it but teorically I think the basic idea is good. I want to do linear regression
+  // not with a line but with parable (or something else). I think i can do that by using  x,y inputs as well as a new x^2 inputs created by multypling x*x ;
   // then  it should work like a classic ml but a single neuron will be able to do "linear" (parabolic) regression just by adding an input.
   
 
